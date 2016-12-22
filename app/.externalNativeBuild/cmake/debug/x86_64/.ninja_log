@@ -1,0 +1,12 @@
+# ninja log v5
+2	88	0	CMakeFiles/gl2jni.dir/Sprite.cpp.o	20244e68d9e86413
+1	128	0	CMakeFiles/gl2jni.dir/gl_code.cpp.o	5c9dcc678dbcfba5
+128	305	0	C:/Users/Dc/AndroidStudioProjects/HelloGL2/app/build/intermediates/cmake/debug/obj/x86_64/libgl2jni.so	7514f2f2f741db4d
+3	137	0	CMakeFiles/gl2jni.dir/Sprite.cpp.o	20244e68d9e86413
+2	339	0	CMakeFiles/gl2jni.dir/gl_code.cpp.o	5c9dcc678dbcfba5
+339	578	0	C:/Users/Dc/AndroidStudioProjects/HelloGL2/app/build/intermediates/cmake/debug/obj/x86_64/libgl2jni.so	7514f2f2f741db4d
+2	148	0	CMakeFiles/gl2jni.dir/Sprite.cpp.o	20244e68d9e86413
+4	307	0	CMakeFiles/gl2jni.dir/gl_code.cpp.o	5c9dcc678dbcfba5
+307	496	0	C:/Users/Dc/AndroidStudioProjects/HelloGL2/app/build/intermediates/cmake/debug/obj/x86_64/libgl2jni.so	7514f2f2f741db4d
+2	324	0	CMakeFiles/gl2jni.dir/gl_code.cpp.o	5c9dcc678dbcfba5
+324	547	0	C:/Users/Dc/AndroidStudioProjects/HelloGL2/app/build/intermediates/cmake/debug/obj/x86_64/libgl2jni.so	7514f2f2f741db4d

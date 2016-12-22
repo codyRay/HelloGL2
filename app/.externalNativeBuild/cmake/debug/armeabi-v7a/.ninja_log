@@ -1,0 +1,12 @@
+# ninja log v5
+2	86	0	CMakeFiles/gl2jni.dir/Sprite.cpp.o	6924d8fefa01d53f
+0	163	0	CMakeFiles/gl2jni.dir/gl_code.cpp.o	b4bcab6b4eed8576
+164	309	0	C:/Users/Dc/AndroidStudioProjects/HelloGL2/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libgl2jni.so	fe4ea7d41bf3de2e
+1	122	0	CMakeFiles/gl2jni.dir/Sprite.cpp.o	6924d8fefa01d53f
+3	191	0	CMakeFiles/gl2jni.dir/gl_code.cpp.o	b4bcab6b4eed8576
+191	294	0	C:/Users/Dc/AndroidStudioProjects/HelloGL2/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libgl2jni.so	fe4ea7d41bf3de2e
+19	111	0	CMakeFiles/gl2jni.dir/Sprite.cpp.o	6924d8fefa01d53f
+1	277	0	CMakeFiles/gl2jni.dir/gl_code.cpp.o	b4bcab6b4eed8576
+277	391	0	C:/Users/Dc/AndroidStudioProjects/HelloGL2/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libgl2jni.so	fe4ea7d41bf3de2e
+1	165	0	CMakeFiles/gl2jni.dir/gl_code.cpp.o	b4bcab6b4eed8576
+165	281	0	C:/Users/Dc/AndroidStudioProjects/HelloGL2/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libgl2jni.so	fe4ea7d41bf3de2e
